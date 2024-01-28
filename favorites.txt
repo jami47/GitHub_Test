@@ -11,3 +11,4 @@ sylhet
 chapainawabganj
 tangail
 dhaka
+chittagong
